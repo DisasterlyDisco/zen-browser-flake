@@ -1,3 +1,6 @@
+# DISCLAIMER OF ABERRANT FORK
+This is my personal fork og youwen5's project. It is for my personal tinkering, and is mainly public in the interest of open information. If you are looking to setup the Zen Browser with Nix, then I highly recommend basing that solution on [youwen5's original project](https://github.com/youwen5/zen-browser-flake), as this one might lack behind theirs in features and security.
+
 # Zen Browser for Nix
 
 This is a flake for the Zen browser. Originally forked from the unmaintained
